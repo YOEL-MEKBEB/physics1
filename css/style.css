@@ -1,0 +1,47 @@
+body {
+  background-image: url(../images/slide3_geiger_big.jpg);
+  background-size: cover;
+}
+
+.introduction {
+  border-style: solid;
+  border-radius: 5px;
+  display: inline-block;
+  border-color: white;
+  margin-left: 450px;
+  background-image: linear-gradient(red, yellow);
+}
+.introduction .img {
+  margin-left: 175px;
+}
+.moreInfo {
+  border-style: solid;
+  border-radius: 5px;
+  display: inline-block;
+  border-color: white;
+  margin-left: 410px;
+  background-image: linear-gradient(yellow, red);
+
+}
+h1 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+  font-family: cursive;
+  text-decoration: underline;
+}
+p {
+  text-align: center;
+  font-family:cursive;
+
+}
+a {
+  display: block;
+  text-decoration: none;
+  color: yellow;
+  font-size: 25px;
+  text-align: center;
+  font-family:
+
+}
